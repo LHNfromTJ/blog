@@ -2,7 +2,7 @@
 home: true
 heroImage: /home-hero.png
 actionText: 开始 →
-actionLink: /Home/
+actionLink: /directory/
 features:
 - title: 初衷
   details: 对面试常见知识点进行归纳总结

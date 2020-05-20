@@ -4,18 +4,11 @@ module.exports = {
         nav: [
             {
                 text: '目录',
-                link: '/Home/',
-                items: [
-                    {
-                        text: 'JavaScript',
-                        items: [
-                            {
-                                text: 'Event Loop',
-                                link: '/JavaScript/EventLoop/'
-                            }
-                        ],
-                    }
-                ],
+                link: '/directory/',
+            },
+            {
+                text: '知识体系',
+                link: '/system/',
             },
         ],
         sidebar: 'auto',
