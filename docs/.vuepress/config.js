@@ -17,10 +17,4 @@ module.exports = {
     markdown: {
         lineNumbers: true,
     },
-    head: [
-        ['link', {
-            rel: 'icon',
-            ref: '/icon.png',
-        }],
-    ],
 };
