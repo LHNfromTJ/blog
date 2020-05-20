@@ -1,11 +1,32 @@
 module.exports = {
+    title: '面试知识点总结',
     themeConfig: {
         nav: [
             {
-                text: 'test',
-                link: '/test/',
+                text: '目录',
+                items: [
+                    {
+                        text: 'JavaScript',
+                        items: [
+                            {
+                                text: 'Event Loops',
+                                link: '/JavaScript/EventLoops/'
+                            }
+                        ],
+                    }
+                ],
             },
         ],
-        sidebar: 'auto'
+        sidebar: 'auto',
+        sidebarDepth: 2,
     },
+    markdown: {
+        lineNumbers: true,
+    },
+    head: [
+        ['link', {
+            rel: 'icon',
+            ref: '/icon.png',
+        }],
+    ],
 };
