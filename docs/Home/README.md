@@ -2,4 +2,4 @@
 
 ## JavaScript
 
-+ ### [Event Loops](/JavaScript/EventLoops/)
++ [Event Loop](/JavaScript/EventLoop/)
