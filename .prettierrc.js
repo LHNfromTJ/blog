@@ -1,10 +1,3 @@
-/*
- * @Description: 添加文件描述
- * @Author: licheng09
- * @LastEditors: lihaonan04
- * @Date: 2019-09-18 20:16:40
- * @LastEditTime: 2020-05-20 19:06:58
- */
 module.exports = {
     // 一行最多 100 字符
     printWidth: 100,

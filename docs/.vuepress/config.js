@@ -1,5 +1,5 @@
 module.exports = {
-    title: '面试知识点总结',
+    title: '浩楠的博客',
     themeConfig: {
         nav: [
             {
