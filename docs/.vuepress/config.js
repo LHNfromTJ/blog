@@ -3,12 +3,12 @@ module.exports = {
     themeConfig: {
         nav: [
             {
-                text: '目录',
-                link: '/directory/',
+                text: '面试知识点',
+                link: '/interview/',
             },
             {
-                text: '知识体系',
-                link: '/system/',
+                text: '每日工作总结',
+                link: '/workSummary/',
             },
         ],
         sidebar: 'auto',
