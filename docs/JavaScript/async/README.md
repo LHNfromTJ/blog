@@ -31,7 +31,7 @@ g[Symbol.iterator]() === g
 ```
 
 ### next() / throw() / return() 共同点
-::: tips
+::: tip
 这三个方法其实就是将对应的调用转换为对应的语句
 :::
 
